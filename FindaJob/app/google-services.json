@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "78428410673",
+    "firebase_url": "https://find-a-job-4ba39.firebaseio.com",
+    "project_id": "find-a-job-4ba39",
+    "storage_bucket": "find-a-job-4ba39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78428410673:android:d44631fbfeb600e999d610",
+        "android_client_info": {
+          "package_name": "com.helloo.findajob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78428410673-338397ju8cb7cdud03pvohu41aqghmed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4pMR709rEKp7PmQfhIoNo6bhug2GLWUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78428410673-338397ju8cb7cdud03pvohu41aqghmed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
